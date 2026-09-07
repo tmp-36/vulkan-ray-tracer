@@ -8,7 +8,7 @@ Requires Vulkan SDK.
 
 Build with CMake.
 
-⚠️ This is an educational project never tested on a different machine. Having said that, the project should build correctly with MinGW + GCC toolchain. Builds with MSVC / Clang have issues. ⚠️
+⚠️ This is an educational project never tested on a different machine. Having said that, the project should build correctly with MinGW + GCC toolchain. MSVC / Clang builds may have issues. ⚠️
 
 ## Educational material
 - https://vulkan-tutorial.com/
